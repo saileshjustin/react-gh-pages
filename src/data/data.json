@@ -1,0 +1,71 @@
+{
+"profiles":[
+{
+"basics":{
+"name":"sailesh",
+"role":"Student",
+"email":"saileshkopuri022@gmail.com",
+"mobile":"4645767458",
+"gender":"male",
+"address":"nagarjuna sagar"
+
+},
+"summery":[
+"studying in lbrce clg in cse department."
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"82%"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Raman bhavan College",
+                    "result":"92%"
+},
+{
+                    "degree":"S.S.C",
+                    "institute":"sri chaitanya techno school",
+                    "result":"90%"
+}
+
+
+]
+},
+   {
+    "basics":{
+"name":"mohith",
+"role":"Student",
+"email":"mohithprince@gmail.com",
+"mobile":"789789789",
+"gender":"male",
+"address":"vijayawada,Andhra pradesh"
+
+},
+"summery":[
+"studying in lbrce clg in cse department."
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"70%"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Andhra loyola College",
+                    "result":"89%"
+},
+{
+                    "degree":"ssc school",
+                    "institute":"oxford school",
+                    "result":"98%"
+}
+
+
+]
+   }
+
+]
+}  
